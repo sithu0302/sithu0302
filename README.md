@@ -5,6 +5,7 @@
 - 📫 How to reach me
       Email: sithumikavindya0418@gmail.com
       Linkedln: www.linkedin.com/in/sithumi-kavindya-153bb3309/
+      Youtube : https://www.youtube.com/channel/UCJVGuRWmJnBmnv1NonG8oyw
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I run a YouTube channel called "Zero to Coder" where I share coding tutorials and UI /UX design tutorials.
 
