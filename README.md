@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Sithumi Kavindya
+  ---
 - 👀 I’m interested in Computer Science, game development, mobile development and UI/UX design etc.
 - 🌱 I’m currently learning software engineering at The Open University of Sri Lanka.
 - 💞️ I’m looking to collaborate on mobile apps, web development projects, and Python-related tasks.
